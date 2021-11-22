@@ -1,0 +1,15 @@
+
+\	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(óĞîÿùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ëãûÿÿÿÿ
+K
+java:S1948,")Make "reviews" transient or serializable.(âŞ‡„øÿÿÿÿ8À¼™ÚĞ/
+I
+java:S1948-",Make "bookOrders" transient or serializable.(›ä±8À¼™ÚĞ/
+t
+java:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(âŞ‡„øÿÿÿÿ
+o
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(›ä±
+F
+java:S1068,"+Remove this unused "reviews" private field.(âŞ‡„øÿÿÿÿ
+D
+java:S1068-".Remove this unused "bookOrders" private field.(›ä±
